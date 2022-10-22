@@ -1,5 +1,5 @@
 # git_citizen
-project citizen 1
+project citizen
 
 Bài tập lớn môn Phát triển ứng dụng web
 
